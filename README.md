@@ -1,2 +1,2 @@
 # repo
-Day 1 -Completed
+Day 1 (Basic Program and Datatypes) -Completed
