@@ -1,2 +1,2 @@
 # repo
-Day 1 -Done
+Day 1 -Completed
